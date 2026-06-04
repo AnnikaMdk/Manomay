@@ -90,6 +90,9 @@ nav.scrolled { box-shadow: 0 4px 24px rgba(0,0,0,0.06); }
   overflow: hidden;
 }
 
+.logo-mark-image svg { width: 18px; height: 18px; color: white; }
+.logo-mark-image img { width: 100%; height: 100%; object-fit: fill; }
+
 .logo-mark svg { width: 18px; height: 18px; color: white; }
 .logo-mark img { width: 100%; height: 100%; object-fit: cover; }
 
