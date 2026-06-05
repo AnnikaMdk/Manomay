@@ -80,7 +80,7 @@ nav.scrolled { box-shadow: 0 4px 24px rgba(0,0,0,0.06); }
 }
 
 .logo-mark-image {
-  width: 80px; height: 80px;
+  width: 100px; height: 60px;
   background: white;
   border-radius: 9px;
   display: flex;
